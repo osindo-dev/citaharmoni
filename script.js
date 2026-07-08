@@ -28,5 +28,5 @@
       + `No. WhatsApp: ${noWa}%0A%0A`
       + `Mohon info lebih lanjut. Terima kasih.`;
 
-    window.open(`https://wa.me/6280000000000?text=${pesan}`, '_blank');
+    window.open(`https://wa.me/628119999644?text=${pesan}`, '_blank');
   });
